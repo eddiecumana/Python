@@ -3,7 +3,7 @@
 import requests
 from pprint import pp, pprint
 
-API_Key = 'a2a46c3bc8cef9e38bea15a95b6faeb5'
+API_Key = ''
 
 city = input("\nEnter a city: ")
 country = input("Enter a country: ")
